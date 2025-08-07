@@ -9,4 +9,4 @@ The Linux version was built with Python 3.13, while the Windows version requires
 This folder contains the .ui files from Qt Designer.
 
 ## Win10_notepad
-This folder contains the files converted from .ui to .py, as well as the run files that call these .py files.翻译为中文
+This folder contains the files converted from .ui to .py, as well as the run files that call these .py files.
